@@ -4,7 +4,7 @@
 Here you can write notes, modify them after some time and view them
 
 ## Example
-```python
+```
 Write <create> to create new post,
  <exit> to exit,
  <find> to find some post,
