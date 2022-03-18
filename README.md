@@ -4,6 +4,7 @@
 Here you can write notes, modify them after some time and view them
 
 ## Example
+```shell
 Write <create> to create new post,
  <exit> to exit,
  <find> to find some post,
@@ -84,4 +85,4 @@ Write <create> to create new post,
  <modify> to modify some post
 
 >>> exit
-   
+```
